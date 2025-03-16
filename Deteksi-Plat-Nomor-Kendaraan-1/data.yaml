@@ -1,0 +1,12 @@
+names:
+- licenseplate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: deteksi-plat-nomor-kendaraan-k1ldk
+  url: https://universe.roboflow.com/aqil-ihohn/deteksi-plat-nomor-kendaraan-k1ldk/dataset/1
+  version: 1
+  workspace: aqil-ihohn
+test: C:/Users/gabri/Documents/SourceCode/Deteksi-Plat-Nomor-Kendaraan-1/test/images
+train: C:/Users/gabri/Documents/SourceCode/Deteksi-Plat-Nomor-Kendaraan-1/train/images
+val: C:/Users/gabri/Documents/SourceCode/Deteksi-Plat-Nomor-Kendaraan-1/valid/images
